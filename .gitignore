@@ -1,0 +1,14 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Ignore Twine autosaves or backups
+*.tw2
+*.backup
+
+# Ignore zip builds (if you zip the project to upload)
+*.zip
