@@ -7,7 +7,8 @@ Built using **Twine** and the **SugarCube** story format, the interactive story 
 
 ## Play the Game
 
-Play it online via [GitHub Pages](https://lusikem.github.io/A-Day-in-the-Life-Game/)  
+Play it online via [GitHub Pages](https://lusikem.github.io/A-Day-in-the-Life/) 
+
 Play it online via [Itch.io](https://lumuk.itch.io/a-day-in-the-life)
 
 
