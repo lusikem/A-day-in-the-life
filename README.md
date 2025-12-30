@@ -44,7 +44,7 @@ This repository includes:
 
 ## Deployment
 
-You can upload the game to:
+You can also upload the game to:
 
 - [Itch.io](https://itch.io) — as a playable HTML5 game
 - [GitHub Pages](https://pages.github.com) — for free browser hosting  
